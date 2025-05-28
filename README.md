@@ -1,6 +1,11 @@
 ### SET-UP ###
-Have OLLAMA hosted locally - preferably on 11434, as OllamaChatCompletionClient uses it as standard.
-Select .venv as python interpreter. (CTRL + SHIFT + P) --> Python: Select Interpreter
+Have OLLAMA hosted locally - preferably on 11434, as OllamaChatCompletionClient uses it as standard. IF NO OLLAMA --> https://ollama.com/
+
+Have a LLM running on your local OLLAMA, run commands --> ollama serve --> ollama run mistral
+
+IF you are not running Mistral then refer to coin.py & coin_30_days.py --> LINE 10 & change "mistral" to desired LLM.
+
+Select .venv as python interpreter. (CTRL + SHIFT + P) --> Python: Select Interpreter 
 
 in terminal, make sure you're in the right environment "c:/somewhere/in/your/folders/MiniProjectAIAgent" then do:
 
