@@ -42,5 +42,6 @@ wait for console to answer...
 
 Type something like "Give me a summary of the news in Ukraine for the last 7 days"
 
+### INPUT/OUPUT ####
 
 For examples of input & desired output, see the InputOutputExamples.txt file in the root folder.
