@@ -9,7 +9,9 @@ Select .venv as python interpreter. (CTRL + SHIFT + P) --> Python: Select Interp
 
 in terminal, make sure you're in the right environment "c:/somewhere/in/your/folders/MiniProjectAIAgent" then do:
 
+python -m venv .venv
 .venv\Scripts\activate
+pip install -r requirements.txt
 
 Run these commands in your terminal.
 
