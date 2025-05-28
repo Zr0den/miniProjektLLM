@@ -41,3 +41,6 @@ Same steps for Setup as above. Type python failed.py to run.
 wait for console to answer...
 
 Type something like "Give me a summary of the news in Ukraine for the last 7 days"
+
+
+For examples of input & desired output, see the InputOutputExamples.txt file in the root folder.
